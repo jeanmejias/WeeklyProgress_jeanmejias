@@ -13,6 +13,7 @@ I have learnt how to use media queries to define a breaking points to do my webp
 
 # week (26th Feb - 3rd March)
 TODO: Continue on web foundation
+
 Complete all the lessons of the web foundation and send my final project to be reviewed.
 
 # week (5th March - 10th March)
