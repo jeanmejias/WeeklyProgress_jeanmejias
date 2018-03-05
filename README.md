@@ -2,7 +2,7 @@
 # week 14th Feb - 18th Feb)
 TODO: Project Animal Trading Card
 
-Completed project: Animal Trading Cards. 
+[x]project: Animal Trading Cards. 
 
 # week (19th Feb - 24thFeb
 TODO: Starting responsive design
