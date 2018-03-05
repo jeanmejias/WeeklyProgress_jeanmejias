@@ -13,3 +13,15 @@ use a type selector:
 
 `img: last-of-type {
 margin-right: 0px;`
+
+`body {
+      margin: 0;
+    }
+    img {
+      float: left;
+	margin-right: 10px;
+	width: calc((100% - 20px)/3)
+	    }
+    img:last-of-type {
+	margin-right: 0;
+}`
