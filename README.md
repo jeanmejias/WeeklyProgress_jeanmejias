@@ -2,12 +2,12 @@
 # week 14th Feb - 18th Feb)
 TODO: Project Animal Trading Card
 
-[x]project: Animal Trading Cards. 
+- [x] Project: Animal Trading Cards. 
 
 # week (19th Feb - 24thFeb
 TODO: Starting responsive design
 
-The week is going quite well. I have finished 'WHY responsive'; 'starting small' and 'building up' lessons. So far, I haven't stuck. 
+The week is going quite well. I have finished [x] 'WHY responsive'; [x] 'starting small' and [x] 'building up' lessons. So far, I haven't stuck. 
 I have learnt a lot about responsive website. How to set my webapge to change the layout in diferent devices depending the needs -DPI, Width and Height. 
 I have learnt how to use media queries to define a breaking points to do my webpage more responsive. 
 
@@ -17,6 +17,6 @@ Complete all the lessons of the web foundation and send my final project to be r
 
 # week (5th March - 10th March)
 TODO: Finish the last lesson of web foundation and make my final project
-Lesson 17 'writing readmes'...starting
-Project - Build a portofolio site. 
+- [ ] Lesson 17 'writing readmes'...starting
+- [ ] Project - Build a portofolio site. 
 This week I expect to finish my last lesson from web foundation and finish my final project. 
