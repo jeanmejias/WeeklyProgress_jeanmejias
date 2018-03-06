@@ -18,6 +18,7 @@ Complete all the lessons of the web foundation and send my final project to be r
 
 # week (5th March - 10th March)
 TODO: Finish the last lesson of web foundation and make my final project
-- [ ] Lesson 17 'writing readmes'...starting
+- [x] Lesson 17 'writing readmes' **Completed**
+- [ ] Course Responsive Images _...working on it..._
 - [ ] Project - Build a portofolio site. 
 This week I expect to finish my last lesson from web foundation and finish my final project. 
