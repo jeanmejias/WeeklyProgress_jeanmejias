@@ -20,5 +20,6 @@ Complete all the lessons of the web foundation and send my final project to be r
 TODO: Finish the last lesson of web foundation and make my final project
 - [x] Lesson 17 'writing readmes' **Completed**
 - [x] Course Responsive Images **Complete**
-- [ ] Project - Build a portofolio site. 
+- [ ] Project - Build a portofolio site. _Started_
+
 This week I expect to finish my last lesson from web foundation and finish my final project. 
