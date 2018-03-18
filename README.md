@@ -27,8 +27,20 @@ This week I expect to finish my last lesson from web foundation and finish my fi
 # week (12th March - 18th March)
 TODO: Start module web programming with Javascript
 
-- [ ] Review basic concepts about javascript...
-- [ ] Lesson 8 Syntax
+- [x] Review basic concepts about javascript **completed**
+- [x] Lesson 8 Syntax **completed**
+- [ ] Lesson 9 Shell Worskshop
+- [ ] Lesson 10 What is a version control? 
+- [ ] Lesson 11 Create A Git Repo **Review concepts**
+- [ ] Lesson 12 Review a Repo's History
+- [ ] Lesson 13 Add Commits to A Repo **Review Concepts**
+- [x] **2nd project approved**
+
+# week (19th March - 25th March)
+Todo: Continue the web programming with Javascript 
+
+I hope this week I will finish all the lessons that I purpose to do. Last week I did not do so well. I could not spend so much time as I planned, however, I think it was a good week because I finish and submitted my 2nd project. After being reviewed and a few changes it was approved. 
+
 - [ ] Lesson 9 Shell Worskshop
 - [ ] Lesson 10 What is a version control? 
 - [ ] Lesson 11 Create A Git Repo **Review concepts**
