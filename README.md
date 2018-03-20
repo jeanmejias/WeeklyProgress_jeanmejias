@@ -41,8 +41,8 @@ Todo: Continue the web programming with Javascript
 
 I hope this week I will finish all the lessons that I purpose to do. Last week I did not do so well. I could not spend so much time as I planned, however, I think it was a good week because I finish and submitted my 2nd project. After being reviewed and a few changes it was approved. 
 
-- [ ] Lesson 9 Shell Worskshop
-- [ ] Lesson 10 What is a version control? 
+- [x] Lesson 9 Shell Worskshop
+- [x] Lesson 10 What is a version control? 
 - [ ] Lesson 11 Create A Git Repo **Review concepts**
 - [ ] Lesson 12 Review a Repo's History
 - [ ] Lesson 13 Add Commits to A Repo **Review Concepts**
