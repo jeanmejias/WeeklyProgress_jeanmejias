@@ -48,3 +48,16 @@ I hope this week I will finish all the lessons that I purpose to do. Last week I
 - [ ] Lesson 13 Add Commits to A Repo **Review Concepts**
 
 I didn't completed my goals for this week for a lesson. I didn't finish lesson 13. However, I took a bit more time to read and lerarn a bit more about git and its command lines. 
+
+# week (126th March - 1st April)
+
+TODO: Continue the web programming with Javascript Lessons
+
+This week I will dedicate a bit more time to the course, I'll be in holidays, so let put a bit more effort to push it. 
+Lessons to finish this week:
+- [ ] Lesson 13 Add Commits to A Repo;
+- [ ] Lesson 14 Tagging, Branching and Merging;
+- [ ] Lesson 15 Undoing Changes;
+- [ ] Lesson 16 Working with Remotes;
+
+
