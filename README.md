@@ -43,6 +43,8 @@ I hope this week I will finish all the lessons that I purpose to do. Last week I
 
 - [x] Lesson 9 Shell Worskshop
 - [x] Lesson 10 What is a version control? 
-- [ ] Lesson 11 Create A Git Repo **Review concepts**
-- [ ] Lesson 12 Review a Repo's History
+- [x] Lesson 11 Create A Git Repo **Review concepts**
+- [x] Lesson 12 Review a Repo's History
 - [ ] Lesson 13 Add Commits to A Repo **Review Concepts**
+
+I didn't completed my goals for this week for a lesson. I didn't finish lesson 13. However, I took a bit more time to read and lerarn a bit more about git and its command lines. 
