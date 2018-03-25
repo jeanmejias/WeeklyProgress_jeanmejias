@@ -49,7 +49,7 @@ I hope this week I will finish all the lessons that I purpose to do. Last week I
 
 I didn't completed my goals for this week for a lesson. I didn't finish lesson 13. However, I took a bit more time to read and lerarn a bit more about git and its command lines. 
 
-# week (126th March - 1st April)
+# week (26th March - 1st April)
 
 TODO: Continue the web programming with Javascript Lessons
 
