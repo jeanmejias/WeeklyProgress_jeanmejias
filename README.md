@@ -55,9 +55,9 @@ TODO: Continue the web programming with Javascript Lessons
 
 This week I will dedicate a bit more time to the course, I'll be in holidays, so let put a bit more effort to push it. 
 Lessons to finish this week:
-- [ ] Lesson 13 Add Commits to A Repo;
-- [ ] Lesson 14 Tagging, Branching and Merging;
-- [ ] Lesson 15 Undoing Changes;
-- [ ] Lesson 16 Working with Remotes;
+- [x] Lesson 13 Add Commits to A Repo;
+- [x] Lesson 14 Tagging, Branching and Merging;
+- [x] Lesson 15 Undoing Changes;
+- [x] Lesson 16 Working with Remotes;
 
 
