@@ -60,6 +60,6 @@ Lessons to finish this week:
 - [x] Lesson 15 Undoing Changes;
 - [x] Lesson 16 Working with Remotes;
 - [x] Lesson 17 Working On Another Developer's Repository
-- [ ] Lesson 18 Staying In Sync With A Remote Repository ``Left behind to go into JavaScript and Start my 3 Project``**inclompleted**
+- [ ] Lesson 18 Staying In Sync With A Remote Repository ``Left behind to go into JavaScript and Start my Project 3``**inclompleted**
 - [ ] Starting **JavaScript and the DOM** course
 
