@@ -65,4 +65,16 @@ Lessons to finish this week:
 - [x] The Document Object Model
 - [x] Creating Content with JavaScript 
 - [x] Working with browser Events
-- [ ] Exercise: Pixel Art Maker - **Started**
+- [ ] Lesson 22 Exercise: Pixel Art Maker - **Started**
+
+# week (2nd April - 8th April) week 8
+- [ ] Lesson 22 Exercise: Pixel Art Maker- ``Finishing``
+- [ ] Lesson 23 Performance
+- [ ] Lesson 24 Memory Game -**Project 3**
+- [ ] Start ExploringJS - Objects, Tools and Testing
+
+
+
+
+
+
