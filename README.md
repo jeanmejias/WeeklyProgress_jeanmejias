@@ -62,4 +62,7 @@ Lessons to finish this week:
 - [x] Lesson 17 Working On Another Developer's Repository
 - [ ] Lesson 18 Staying In Sync With A Remote Repository ``Left behind to go into JavaScript and Start my Project 3``**inclompleted**
 - [ ] Starting **JavaScript and the DOM** course
-
+- [x] The Document Object Model
+- [x] Creating Content with JavaScript 
+- [x] Working with browser Events
+- [ ] Exercise: Pixel Art Maker - **Started**
