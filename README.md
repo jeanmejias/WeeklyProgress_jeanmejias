@@ -68,10 +68,10 @@ Lessons to finish this week:
 - [ ] Lesson 22 Exercise: Pixel Art Maker - **Started**
 
 # week (2nd April - 8th April) week 8
-- [ ] Lesson 22 Exercise: Pixel Art Maker- ``Finishing``
-- [ ] Lesson 23 Performance
-- [ ] Lesson 24 Memory Game -**Project 3**
-- [ ] Start ExploringJS - Objects, Tools and Testing
+- [x] Lesson 22 Exercise: Pixel Art Maker- ``Finishing``
+- [x] Lesson 23 Performance
+- [ ] Lesson 24 Memory Game -**Project 3** ```In progress```
+- [x] Start ExploringJS - Objects, Tools and Testing
 
 
 
