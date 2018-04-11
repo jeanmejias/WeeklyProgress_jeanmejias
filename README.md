@@ -71,8 +71,14 @@ Lessons to finish this week:
 - [x] Lesson 22 Exercise: Pixel Art Maker- ``Finishing``
 - [x] Lesson 23 Performance
 - [ ] Lesson 24 Memory Game -**Project 3** ```In progress```
-- [x] Start ExploringJS - Objects, Tools and Testing
+- [ ] Start ExploringJS - Objects, Tools and Testing ```Initiated```
 
+# week (9th April - 15th April) week 9
+- [x] Lesson 24 Memory Game -**Project 3** ```Submitted```
+- [x] Start ExploringJS - Objects, Tools and Testing ```Initiated```
+- [ ] Lesson 1 Accessibility Overview
+- [ ] Lesson 2 Focus
+- [ ] Lesson 3 Semantics Basics 
 
 
 
