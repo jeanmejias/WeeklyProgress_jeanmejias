@@ -68,21 +68,37 @@ Lessons to finish this week:
 - [ ] Lesson 22 Exercise: Pixel Art Maker - **Started**
 
 # week (2nd April - 8th April) week 8
+Todo: Initiated ExploringJS - Objects, Tools and Testing
 - [x] Lesson 22 Exercise: Pixel Art Maker- ``Finishing``
 - [x] Lesson 23 Performance
 - [ ] Lesson 24 Memory Game -**Project 3** ```In progress```
 - [ ] Start ExploringJS - Objects, Tools and Testing ```Initiated```
 
 # week (9th April - 15th April) week 9
+Todo: ExploringJS - Objects, Tools and Testing ```continue```
 - [x] Lesson 24 Memory Game -**Project 3** ```Submitted```
 - [x] Start ExploringJS - Objects, Tools and Testing ```Initiated```
 - [ ] Lesson 1 Accessibility Overview
 - [ ] Lesson 2 Focus
 - [ ] Lesson 3 Semantics Basics 
+
 # week (16th pril - 22nd April ) week 10
+Todo: ExploringJS - Objects, Tools and Testing ```continue```
+
 - [x] Lesson 1 Accessibility Overview
 - [x] Lesson 2 Focus
 - [x] Lesson 3 Semantics Basics 
+
+# Week (23rd April - 29th April) week 11
+Todo: ExploringJS - Objects, Tools and Testing ```continue```
+
+- [x] Lesson 4 Navigating Content 
+- [x] Lesson 5 Aria
+- [x] Lesson 6 Style 
+- [ ] Object in Depth
+- [ ] Functions at Runtime
+- [ ] Classes and Objets
+
 
 
 
