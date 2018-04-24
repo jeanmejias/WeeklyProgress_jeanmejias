@@ -79,6 +79,11 @@ Lessons to finish this week:
 - [ ] Lesson 1 Accessibility Overview
 - [ ] Lesson 2 Focus
 - [ ] Lesson 3 Semantics Basics 
+# week (16th pril - 22nd April ) week 10
+- [x] Lesson 1 Accessibility Overview
+- [x] Lesson 2 Focus
+- [x] Lesson 3 Semantics Basics 
+
 
 
 
