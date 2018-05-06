@@ -100,11 +100,19 @@ Todo: ExploringJS - Objects, Tools and Testing ```continue```
 - [ ] Classes and Objets
 
 # Week (30th April - 6th May)
+Todo: ExploringJS - Objects, Tools and Testing ```continue```
+
 - [x] Object in Depth
 - [x] Functions at Runtime
 - [x] Classes and Objets
 
+# week 7th May - 13th May
+Todo: ExploringJS - Objects, Tools and Testing ```continue```
 
+- [ ] Functions
+- [ ] Built-ins
+- [ ] Professional developer-Fu
+- [ ] Classic Arcade Game Clone - ```try to start this week``` 
 
 
 
