@@ -99,6 +99,12 @@ Todo: ExploringJS - Objects, Tools and Testing ```continue```
 - [ ] Functions at Runtime
 - [ ] Classes and Objets
 
+# Week (30th April - 6th May)
+- [x] Object in Depth
+- [x] Functions at Runtime
+- [x] Classes and Objets
+
+
 
 
 
