@@ -109,8 +109,8 @@ Todo: ExploringJS - Objects, Tools and Testing ```continue```
 # week 7th May - 13th May
 Todo: ExploringJS - Objects, Tools and Testing ```continue```
 
-- [ ] Functions
-- [ ] Built-ins
+- [x] Functions
+- [x] Built-ins
 - [ ] Professional developer-Fu
 - [ ] Classic Arcade Game Clone - ```try to start this week``` 
 
