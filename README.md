@@ -114,6 +114,15 @@ Todo: ExploringJS - Objects, Tools and Testing ```continue```
 - [ ] Professional developer-Fu
 - [ ] Classic Arcade Game Clone - ```try to start this week``` 
 
+# week 14th May - 20th May
+Todo: ExploringJS - Objects, Tools and Testing ```continue```
+
+- [x] Functions
+- [x] Built-ins
+- [ ] Professional developer-Fu ```working on it```
+- [ ] Planning my Plan for Arcade Game Clone
+- [ ] Classic Arcade Game Clone - ```try to start this week``` 
+
 
 
 
