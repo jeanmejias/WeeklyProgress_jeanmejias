@@ -119,9 +119,9 @@ Todo: ExploringJS - Objects, Tools and Testing ```continue```
 
 - [x] Functions
 - [x] Built-ins
-- [ ] Professional developer-Fu ```working on it```
-- [ ] Planning my Plan for Arcade Game Clone
-- [ ] Classic Arcade Game Clone - ```try to start this week``` 
+- [x] Professional developer-Fu ```working on it```
+- [x] Planning my Plan for Arcade Game Clone
+- [x] Classic Arcade Game Clone - ```Working on it``` 
 
 
 
