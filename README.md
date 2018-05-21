@@ -123,7 +123,11 @@ Todo: ExploringJS - Objects, Tools and Testing ```continue```
 - [x] Planning my Plan for Arcade Game Clone
 - [x] Classic Arcade Game Clone - ```Working on it``` 
 
-
+# week 21th May - 27th May
+Todo: Arcade Game 
+- [x] Classic Arcade Game Clone - ```Working on it``` 
+- [x] Reviewing class lesson 
+- [x] Reviewing notes 
 
 
 
