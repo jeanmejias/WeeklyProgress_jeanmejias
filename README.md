@@ -129,6 +129,24 @@ Todo: Arcade Game
 - [x] Reviewing class lesson 
 - [x] Reviewing notes 
 
+# week 21th May - 27th May
+Todo: Arcade Game 
+- [x] Classic Arcade Game Clone - ```Working on it``` 
+- [x] Reviewing class lesson 
+- [x] Reviewing notes 
 
+# week 28th May - 3rd June
+Todo: Arcade Game 
+- [x] Classic Arcade Game Clone - ```Working on it``` 
+- [x] Reviewing class lesson 
 
+# week 4th June - 10th June
+Todo: Arcade Game 
+- [x] Classic Arcade Game Clone - ```Working on it``` 
+- [x] Reviewing class lesson 
+
+# week 11th June - 117th June
+Todo: Arcade Game 
+- [x] Classic Arcade Game Clone - ```Subbmitted :)``` 
+- [ ] continue with lessons 
 
